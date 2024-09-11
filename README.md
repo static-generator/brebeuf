@@ -1,3 +1,3 @@
 # brebeuf
 ## Janmart Fortuna
-^ Bea Nicole Base
+> Bea Nicole Base
